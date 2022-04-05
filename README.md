@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gipfel&count_private=true&theme=radical)
  
- </div>
+
 <h1></h1>
 <h2>My Programming skills:</h2>
 
@@ -38,3 +38,4 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gipfel&theme=dracula)
+  </div>

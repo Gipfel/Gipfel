@@ -33,4 +33,4 @@
 <h3> Stats: </h3>
 
 
-![Top Langs]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]

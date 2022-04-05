@@ -1,6 +1,6 @@
 <h1 align="center"> Gipfel </h1>
 <p align="center">
- <img style="border-radius: 50%" width=200px height=200px src="https://avatars.githubusercontent.com/u/43959217?v=4" alt="Project logo"></a>
+ <img style="border-radius: 50%;" width=200px height=200px src="https://avatars.githubusercontent.com/u/43959217?v=4" alt="Project logo"></a>
 </p>
 
 <h1></h1>

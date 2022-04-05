@@ -9,11 +9,9 @@
 
 <h1></h1>
 
-<div style="padding: 20vw">
 <p> My GitHub stats: </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gipfel&count_private=true&theme=radical)
-  </div>
 
 <h1></h1>
 <h2>My Programming skills:</h2>

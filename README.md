@@ -1,12 +1,11 @@
-<h1 align="center"> Lukas L. </h1>
+<h1 align="center"> Gipfel </h1>
 <p align="center">
  <img width=200px height=200px src="./images/Hacker_Luki.png" alt="Project logo"></a>
 </p>
 
 <h1></h1>
 
-<p> Hello I am Lukas! Currently working as an Electrician and on my way to become a State-Certified Electrical Engineer </p>
-<p>I started programming as a hobby but overtime it became my part-time job</p>
+<p>  </p>
 
 <h1></h1>
 <p> My GitHub stats: </p>
@@ -34,4 +33,4 @@
 <h3> Stats: </h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gipfel&langs_count=10)
+![Top Langs]()

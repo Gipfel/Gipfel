@@ -5,7 +5,7 @@
 
 <h1></h1>
 
-<p> Hey there! I am GIIIPFEL and I am a FullStack Webdeveloper who currently uses Next.JS the most. </p>
+<p align="center"> Hey there! I am GIIIPFEL and I am a FullStack Webdeveloper who currently uses Next.JS the most. </p>
 
 <h1></h1>
 <p> My GitHub stats: </p>

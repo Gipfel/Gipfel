@@ -35,4 +35,4 @@
 <h3> Stats: </h3>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gipfel&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gipfel&theme=radical)

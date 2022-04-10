@@ -36,8 +36,8 @@
 
 <h3> Gamedevelopment: </h3>
 
-- [Next.JS](https://nextjs.org/) - Frontend + Backend
-- [Next.JS](https://nextjs.org/) - Frontend + Backend
+- [Unreal Engine](https://nextjs.org/) - Game Development with my favourite Game Engine
+- [C++ for Unreal Engine](https://nextjs.org/) - C++ for Unreal Engine specific Syntax
 
 
 

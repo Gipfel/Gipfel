@@ -35,8 +35,9 @@
 
 
 <h3> Gamedevelopment: </h3>
-- [Unreal Engine](https://www.unrealengine.com/) - My favourite GameEnigne
-- [C++](https://docs.unrealengine.com/5.0/en-US/unreal-engine-cpp-quick-start/) - C++ but more in a UnrealEngine specific Syntax
+
+- [Next.JS](https://nextjs.org/) - Frontend + Backend
+- [Next.JS](https://nextjs.org/) - Frontend + Backend
 
 
 

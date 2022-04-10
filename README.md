@@ -36,7 +36,7 @@
 
 <h3> Gamedevelopment: </h3>
 - [Unreal Engine](https://www.unrealengine.com/) - My favourite GameEnigne
-- [C++ for Unreal Engine]() - C++ but more in a UnrealEngine specific Syntax
+- [C++]() - C++ but more in a UnrealEngine specific Syntax
 
 
 

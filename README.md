@@ -14,6 +14,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gipfel&count_private=true&theme=radical)
 
 <h1></h1>
+
+<h3> My current active Projects: </h3>
+- Survive The End - A Zombie-Survival-Multiplayer Game
+- eWave E-Sports - new eWave Website made by me
+
 <h2>My Programming skills:</h2>
 
 <h3> Frontend: </h3>

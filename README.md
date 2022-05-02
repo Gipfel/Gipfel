@@ -15,13 +15,6 @@
 
 <h1></h1>
 
-<h3> My current active Projects: </h3>
-
-<ul>
- <li>Survive The End - A Zombie-Survival-Multiplayer Game made inside the UE5 (solo)</li>
- <li>eWave E-Sports - The new ofical eWave Website made with Next.JS (solo)</li>
-</ul>
-
 <h2>My Programming skills:</h2>
 
 <h3> Frontend: </h3>
@@ -47,6 +40,12 @@
 - [Unreal Engine](https://nextjs.org/) - Game Development with my favourite Game Engine
 - [C++ for Unreal Engine](https://nextjs.org/) - C++ for Unreal Engine specific Syntax
 
+<h3> My current active Projects: </h3>
+
+<ul>
+ <li>Survive The End - A Zombie-Survival-Multiplayer Game made inside the UE5 (solo)</li>
+ <li>eWave E-Sports - The new ofical eWave Website made with Next.JS (solo)</li>
+</ul>
 
 
 <h3> Stats: </h3>

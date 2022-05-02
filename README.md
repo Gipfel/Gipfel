@@ -16,8 +16,11 @@
 <h1></h1>
 
 <h3> My current active Projects: </h3>
-- Survive The End - A Zombie-Survival-Multiplayer Game
-- eWave E-Sports - new eWave Website made by me
+
+<ul>
+ <li>- Survive The End - A Zombie-Survival-Multiplayer Game</li>
+ <li>- eWave E-Sports - new eWave Website made by me</li>
+</ul>
 
 <h2>My Programming skills:</h2>
 

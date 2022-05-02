@@ -18,8 +18,8 @@
 <h3> My current active Projects: </h3>
 
 <ul>
- <li>Survive The End - A Zombie-Survival-Multiplayer Game</li>
- <li>eWave E-Sports - new eWave Website made by me</li>
+ <li>Survive The End - A Zombie-Survival-Multiplayer Game made inside the UE5 (solo)</li>
+ <li>eWave E-Sports - The new ofical eWave Website made with Next.JS (solo)</li>
 </ul>
 
 <h2>My Programming skills:</h2>

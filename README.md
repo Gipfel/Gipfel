@@ -1,6 +1,6 @@
 <h1 align="center"> Gipfel </h1>
 <p align="center">
- <img width=200px height=200px src="https://lh6.googleusercontent.com/_EUp9mhjqqeFZF3XofPf1ygDW74R6IqxSdWKPVPsvz0ENtnS_15oZjKb5sOSfrCyHl0lvwCc2d9bY6GtGoJK=w1920-h961" alt="Project logo" style="border-radius: 50%;"></a>
+ <img width=200px height=200px src="https://sexygipfel.de/gipfel.png" alt="Project logo">
 </p>
 
 <h1></h1>

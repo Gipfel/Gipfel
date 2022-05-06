@@ -27,12 +27,10 @@
 - [Next.JS](https://nextjs.org/) - Frontend + Backend
 
 
-
 <h3> Backend: </h3>
 
 - [PHP](https://www.php.net/) - Webserver Backend
 - [MySQL](https://www.mysql.com/de/) - Webserver Backend
-
 
 
 <h3> Gamedevelopment: </h3>

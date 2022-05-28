@@ -5,6 +5,12 @@
 
 <h1></h1>
 
+<p align="center">
+ <img width=200px height=200px src="https://ue-cdn.artstation.com/imgproxy/NUgLS7xaWUlAYyN6-lhF3b5ahE-5K6-iHgFy7a3H20E/filename:ue5-banner.png" alt="Project logo">
+</p>
+
+<h1></h1>
+
 <p align="center"> Hey there! I am GIIIPFEL and I am a FullStack Webdeveloper who currently uses Next.JS the most. </p>
 
 <h1></h1>

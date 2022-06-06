@@ -19,6 +19,8 @@
 
 <h2>My Programming skills:</h2>
 
+<h1></h1>
+
 <h3>💻 Frontend: </h3>
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Frontend

@@ -6,6 +6,7 @@
 <h1></h1>
 
 <h2 align="center"> Hey there and welcome to my GitHub Profile! 
+    <p> </p>
     <h5 align="center">I am GIIIPFEL and I am a GameDeveloper FullStack Webdeveloper who currently uses Next.JS the most. </h5>
 </h2>
 

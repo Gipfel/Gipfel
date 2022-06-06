@@ -22,7 +22,7 @@
     <p> </p>
 </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gipfel&count_private=true&theme=radical)
+
 
 <h1></h1>
 

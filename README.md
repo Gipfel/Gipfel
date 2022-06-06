@@ -3,6 +3,7 @@
     <p> </p>
 </h1>
 <p align="center">
+<p> </p>
  <img width=200px height=200px src="https://sexygipfel.de/gipfel.png" alt="Project logo">
 </p>
 

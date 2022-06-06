@@ -12,7 +12,7 @@
 
 <h1></h1>
 
-<h3>💪 Stats: </h3>
+<h2>💪 Stats: </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gipfel&count_private=true&theme=radical)
 
@@ -55,6 +55,6 @@
 
 <h1></h1>
 
-<h3>💪 Stats: </h3>
+<h2>💪 Stats: </h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gipfel&count_private=true&theme=radical)

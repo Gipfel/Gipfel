@@ -19,7 +19,7 @@
 <h1></h1>
 
 <h2>
-    My Programming skills:
+    📋 My Programming skills:
     <p> </p>
 </h2>
 

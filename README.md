@@ -19,7 +19,7 @@
 
 <h2>
     My Programming skills:
-    <br>
+    <p> </p>
 </h2>
 
 <h3>💻 Frontend: </h3>

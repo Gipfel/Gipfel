@@ -17,9 +17,10 @@
 
 <h1></h1>
 
-<h2>My Programming skills:</h2>
-
-<h1></h1>
+<h2>
+    My Programming skills:
+    <br>
+</h2>
 
 <h3>💻 Frontend: </h3>
 

@@ -27,7 +27,7 @@
 <h1></h1>
 
 <h2>
-    📋 My Programming skills:
+    📋 My Skills:
     <p> </p>
 </h2>
 
@@ -44,20 +44,22 @@
 
 - [PHP](https://www.php.net/) - Webserver Backend
 - [MySQL](https://www.mysql.com/de/) - Webserver Backend
+- [Python](https://www.python.org/) - Webserver Backend
 
 <h3>👾 Game Development: </h3>
 
-- [Unreal Engine](https://nextjs.org/) - Game Development with my favourite Game Engine
-- [C++ for Unreal Engine](https://nextjs.org/) - C++ for Unreal Engine specific Syntax
+- [Unreal Engine](https://www.unrealengine.com/en-US) - Game Development with my favourite Game Engine
+- [Unreal Engine Blueprints](https://docs.unrealengine.com/5.0/en-US/blueprints-visual-scripting-in-unreal-engine/) - Game Development with my favourite Game Engine
+- [C++ for Unreal Engine](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/IntroductionToCPP/) - C++ for Unreal Engine specific Syntax
 
 <h3>📝 My current active Projects: </h3>
 
 <ul>
     <li>
-        Survive The End - A Zombie-Survival-Multiplayer Game made inside the UE5 (solo & private)
+        React Native Chatting App
     </li>
     <li>
-        Plattform X - A Multiplayer Jump And Run Game made inside the UE5 (solo & private)
+        ReactJS Dashboard
     </li>
 </ul>
 

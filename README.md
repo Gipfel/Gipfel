@@ -45,6 +45,7 @@
 - [PHP](https://www.php.net/) - Webserver Backend
 - [MySQL](https://www.mysql.com/de/) - Webserver Backend
 - [Python](https://www.python.org/) - Webserver Backend
+- [Java](https://www.java.com/de/download/manual.jsp) - learned in school, but I hate it
 
 <h3>👾 Game Development: </h3>
 

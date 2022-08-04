@@ -57,10 +57,7 @@
 
 <ul>
     <li>
-        React Native Chatting App
-    </li>
-    <li>
-        ReactJS Dashboard
+        None :/
     </li>
 </ul>
 

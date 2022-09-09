@@ -39,6 +39,7 @@
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Frontend
 - [React.JS](https://reactjs.org/) - Frontend
 - [Next.JS](https://nextjs.org/) - Frontend + Backend
+- [Prisma.JS](https://www.prisma.io/) - Backend solution for MySQL + Next.JS
 
 <h3>💻 Backend: </h3>
 

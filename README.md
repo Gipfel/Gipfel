@@ -50,7 +50,7 @@
 - [Python](https://www.python.org/) - Backend
 - [IfcOpensHell (Python)](https://github.com/IfcOpenShell/IfcOpenShell/) - Ifc parsing and much more IFC related
 - [Java](https://www.java.com/de/download/manual.jsp) - learned in school, but I hate it
-- [C#]([https://www.java.com/de/download/manual.jsp](https://de.wikipedia.org/wiki/C-Sharp)) - currently learning in school
+- [C#](https://de.wikipedia.org/wiki/C-Sharp) - currently learning in school
 
 <h3>👾 Game Development: </h3>
 

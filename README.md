@@ -40,6 +40,8 @@
 - [React.JS](https://reactjs.org/) - Frontend
 - [Next.JS](https://nextjs.org/) - Frontend + Backend
 - [Prisma.JS](https://www.prisma.io/) - Backend solution for MySQL + Next.JS
+- [Ar.JS](https://ar-js-org.github.io/AR.js-Docs/) - For AR Webapplications
+- [Three.JS](https://threejs.org/) - 3D Webapplications
 
 <h3>💻 Backend: </h3>
 

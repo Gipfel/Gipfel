@@ -64,7 +64,7 @@
 
 <ul>
     <li>
-        Doing work life
+        Doing school & work life
     </li>
 </ul>
 

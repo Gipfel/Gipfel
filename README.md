@@ -11,7 +11,7 @@
 
 <h2 align="center"> Hey there and welcome to my GitHub Profile! 
     <p> </p>
-    <h4 align="center">I am Herbert, my Online Alias is Gipfel or GIIIPFEL. I am a FullStack Webdeveloper and also a GameDeveloper who currently uses Next.JS the most. I really like working with Next and it also got a part in my diploma thesis!</h4>
+    <h4 align="center">I am Herbert, my Online Alias is Gipfel/GIIIPFEL. I am a FullStack Webdeveloper and also a GameDeveloper who currently uses Next.JS the most. I really like working with Next and it also got a part in my diploma thesis!</h4>
 </h2>
 
 <h1></h1>
@@ -42,7 +42,7 @@
 - [CSS](https://en.wikipedia.org/wiki/CSS) - Frontend
 - [SCSS](https://sass-lang.com/) - Frontend
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - Frontend + Backend
-- [TypeScript]([https://en.wikipedia.org/wiki/JavaScript](https://www.typescriptlang.org/)) - Frontend + Backend
+- [TypeScript](https://www.typescriptlang.org/) - Frontend + Backend
 - [React.JS](https://reactjs.org/) - Frontend
 - [Next.JS](https://nextjs.org/) - Frontend + Backend
 - [Prisma.JS](https://www.prisma.io/) - Backend solution for MySQL + Next.JS (stopped using it in my projects)
@@ -56,9 +56,9 @@
 - [Python](https://www.python.org/) - Backend
 - [IfcOpensHell (Python)](https://github.com/IfcOpenShell/IfcOpenShell/) - Ifc parsing and much more IFC related
 - [Java](https://www.java.com/de/download/manual.jsp) - learned in school, but I hate it
-- [Java Spring Boot]([https://www.java.com/de/download/manual.jsp](https://spring.io/projects/spring-boot)) - had to my finals (Matura) with it
+- [Java Spring Boot](https://spring.io/projects/spring-boot) - played a major role in my finals (Matura)
 - [C#](https://de.wikipedia.org/wiki/C-Sharp) - learned in school
-- [Rust](https://www.rust-lang.org/) - I am learning it just for fun to extend my skillset
+- [Rust](https://www.rust-lang.org/) - I am learning it just for fun to extend my skillset - still have not build anything with it
 
 <h3>👾 Game Development: </h3>
 <p>(Stopped doing Game Development because of not enough free time and no clue what I should produce..)</p>

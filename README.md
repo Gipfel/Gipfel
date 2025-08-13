@@ -22,12 +22,8 @@
     <p> </p>
 </h2>
 
-<details>
-    <summary>
-        :zap: GitHub Stats
-    </summary>
-    <img align="left" alt="Stats" src="https://github-readme-stats-giiipfels-projects.vercel.app/api?username=Gipfel&count_private=true&theme=radical&show_icons=true" />
-</details>
+<p>:zap: GitHub Stats</p>
+<img align="left" alt="Stats" src="https://github-readme-stats-giiipfels-projects.vercel.app/api?username=Gipfel&count_private=true&theme=radical&show_icons=true" />
 
 <h1></h1>
 
@@ -88,4 +84,4 @@
     <p> </p>
 </h2>
 
-![GitHub stats](https://github-readme-stats-ten-kappa-68.vercel.app/api/top-langs/?username=Gipfel&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats-giiipfels-projects.vercel.app/api/top-langs/?username=Gipfel&count_private=true&theme=radical)

@@ -22,7 +22,12 @@
     <p> </p>
 </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats-giiipfels-projects.vercel.app/api?username=Gipfel&count_private=true&theme=radical)
+<details>
+    <summary>
+        :zap: GitHub Stats
+    </summary>
+    <img align="left" alt="Stats" src="https://github-readme-stats-giiipfels-projects.vercel.app/api?username=Gipfel&count_private=true&theme=radical&show_icons=true" />
+</details>
 
 <h1></h1>
 

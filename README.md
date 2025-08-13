@@ -22,7 +22,6 @@
     <p> </p>
 </h2>
 
-<p>:zap: GitHub Stats</p>
 ![GitHub stats](https://github-readme-stats-ten-kappa-68.vercel.app/api?username=Gipfel&count_private=true&theme=radical&show_icons=true)
 
 <h1></h1>
